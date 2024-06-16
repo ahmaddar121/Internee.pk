@@ -1,0 +1,39 @@
+  
+  .lms-img {
+    position: relative;
+  }
+  
+  .lms-img img {
+    max-width: 1637px;
+    max-height: 650px;
+    vertical-align: middle;
+    border-style: none;
+
+    position: relative;
+    left: -2%;
+  }
+  @keyframes float {
+    0% {
+      transform: translateY(0px);
+    }
+    50% {
+      transform: translateY(-30px);
+    }
+    100% {
+      transform: translateY(0px);
+    }
+  }
+  
+  .lms-img img {
+    animation: float 5s ease-in-out infinite;
+  }
+
+  @media screen and (max-width: 1030px) {
+    .LMS{
+      flex-direction: column;
+    }
+    .lms-img img {
+      max-width: 100%;
+      max-height: 50%;
+    }
+  }
