@@ -1,5 +1,5 @@
 import React from 'react'
-import './Blog.css'
+import './recentblog.css'
 import blog1 from '.././assets/img/blog1.png'
 import blog2 from '.././assets/img/blog2.png'
 import blog3 from '.././assets/img/blog3.png'

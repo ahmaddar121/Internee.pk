@@ -1,8 +1,8 @@
-  
+
   .lms-img {
     position: relative;
   }
-  
+
   .lms-img img {
     max-width: 1637px;
     max-height: 650px;
@@ -23,7 +23,7 @@
       transform: translateY(0px);
     }
   }
-  
+
   .lms-img img {
     animation: float 5s ease-in-out infinite;
   }

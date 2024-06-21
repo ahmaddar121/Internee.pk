@@ -1,7 +1,7 @@
 import React, { useEffect, useRef } from "react";
-import "./Portal.css";
+import "./taskportal.css";
 import instructor from ".././assets/img/instructor.png";
-import './Courses.css'
+import './instructor.css'
 import Aos from "aos";
 import "aos/dist/aos.css";
 const Courses = () => {

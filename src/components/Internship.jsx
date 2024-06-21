@@ -1,5 +1,5 @@
 import React, { useState, useRef, useEffect } from 'react';
-import './Internship.css';
+import './internship.css';
 import frontEnd from '../assets/img/FrontEnd.webp';
 import cloud from '../assets/img/cloud.webp';
 import logoDesigner from '../assets/img/logo-designer.webp';

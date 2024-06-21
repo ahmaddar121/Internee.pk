@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
-import "./Portal.css";
+import "./taskportal.css";
 import lms from ".././assets/img/lms.png";
-import './LMS.css';
+import './lms.css';
 import Aos from "aos";
 import "aos/dist/aos.css";
 

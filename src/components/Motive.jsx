@@ -1,8 +1,8 @@
 import React, { useEffect, useRef } from "react";
-import "./Portal.css";
+import "./taskportal.css";
 import job from ".././assets/img/programing.jpg";
-import './LMS.css'
-import './Why.css'
+import './lms.css'
+import './motive.css'
 import Aos from "aos";
 import "aos/dist/aos.css";
 const Why = () => {

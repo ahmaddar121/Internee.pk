@@ -2,7 +2,7 @@ import React, { useEffect, useRef } from "react";
 import Aos from "aos";
 import Typed from "typed.js";
 import "aos/dist/aos.css";
-import "./Home.css";
+import "./home.css";
 import hero from "../assets/img/hero.webp";
 import incubation from "../assets/img/incubation.jpg";
 import nep from "../assets/img/nep.png";
@@ -22,7 +22,7 @@ const Home = () => {
     });
 
     return () => {
-      typed.destroy(); // Cleanup Typed.js instance
+      typed.destroy();
     };
   }, []);
 

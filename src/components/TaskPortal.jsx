@@ -1,5 +1,5 @@
 import React, { useEffect, useRef } from "react";
-import "./Portal.css";
+import "./taskportal.css";
 import task from "../assets/img/task.png";
 import Aos from "aos";
 import "aos/dist/aos.css";

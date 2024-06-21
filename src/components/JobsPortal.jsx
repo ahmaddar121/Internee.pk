@@ -1,10 +1,10 @@
 import React, { useEffect, useRef } from "react";
-import "./Portal.css";
+import "./taskportal.css";
 import job from ".././assets/img/job.png";
-import './LMS.css'
+import './lms.css'
 import Aos from "aos";
 import "aos/dist/aos.css";
-import './Jobs.css'
+import './jobsportal.css'
 const Jobs = () => {
   useEffect(() => {
     Aos.init({ duration: 2000 });

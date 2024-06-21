@@ -5,7 +5,7 @@ import logoDesigner from ".././assets/img/logo-designer.webp";
 import chatbot from ".././assets/img/chatbot.webp";
 import analysis from ".././assets/img/analysis.webp";
 import figma from ".././assets/img/figma.png"
-import './Browse.css'
+import './browse.css'
 const Browse = () => {
   return (
     <div className='browse'>
